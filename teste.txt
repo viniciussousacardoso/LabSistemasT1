@@ -1,0 +1,24 @@
+Elaboração do prototipo de registro de clientes
+
+CPF
+Nome
+Email
+Senha
+End residenciakl
+End Entregas
+
+TIPO Proposal - Prioridade Critica
+
+Elaboração de um prototipo de pedidos de produtos
+
+Pedir um produto com a quantidade, um pedido pode conter diversos produtos.
+
+	Data, Situação -> Enum Pendente Cancelado Concluido 
+Proposal Critico
+
+Calculo total Pedido -> Sistema permitir total do pedido seja calculado com base na qtde de cada produto pedido - task critico 
+
+IMPLEMENTAÇÂO E TESTE DAS CLASSES DE NEGOCIOS p/ Manutenção de produtos
+	Task Critica
+
+Implementacao dos testes de persistencia p/ manutenção de produtos utilizar um DB
